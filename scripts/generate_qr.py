@@ -10,7 +10,7 @@ VCARD = "\r\n".join([
     "N:Negrini;Valeria;;;",
     "FN:Valeria Negrini",
     "ORG:TruScreen Pty Limited",
-    "TITLE:Field Training Manager",
+    "TITLE:Field Training Manager EU",
     "TEL;TYPE=CELL:+393381477262",
     "EMAIL;TYPE=WORK:valeria.negrini@truscreen.com",
     "URL:https://www.truscreen.com",
